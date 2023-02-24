@@ -1,19 +1,16 @@
-### Hi there 👋
+#Hi 👋, I'm Cynthia Ketienyei
+A passionate frontend and backend developer from Nairobi, Kenya
+🔭 I’m currently working on a website and also practising mi skills
 
-<!--
-**Ketienyei/Ketienyei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning laravel, vue and mobile development
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on projects utilizing emerging technologies in the web development space
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-,,
-Hello there welcome to my github account feel free to fork and pull some requests;
-Updating 
+📫 How to reach me cynthiachptoo@gmail.com
+
+⚡ Fun fact While not nerding out on my computer, I love beauty and hair i have a youtube channel on hairstyles tutorals.
+
+Languages and Tools:
+css3 git html5 javascript react nodejs database laravel
+
+
